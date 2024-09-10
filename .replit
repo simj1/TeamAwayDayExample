@@ -1,5 +1,5 @@
 modules = ["r-4.2", "python-3.12"]
-run = "run"
+run = "python main.py"
 [nix]
 channel = "stable-24_05"
 
